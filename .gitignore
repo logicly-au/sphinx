@@ -1,2 +1,7 @@
 _build
-fonts
+_static
+_templates
+conf.py
+Makefile
+make.bat
+index.rst
