@@ -1,7 +1,7 @@
 # sphinx
 
 ```
-docker-compose auto
+docker-compose build
 
 docker-compose push
 ```
