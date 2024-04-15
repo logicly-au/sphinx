@@ -1,4 +1,4 @@
-# THIS REGISTRY IS ARCHIVED
+# THIS REPOSITORY IS ARCHIVED
 
 Base our sphinx use on official sphinxdoc registries.
 
