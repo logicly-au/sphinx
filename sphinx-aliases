@@ -1,5 +1,0 @@
-#!/bin/bash
-
-printf "alias sphinx-make=\'docker run --rm -it stratdat/sphinx:production make\'\n"
-
-printf "alias sphinx-autobuild=\'docker run -v `pwd`:/mnt/workdir -p 8000:8000 --hostname=sphinx --rm stratdat/sphinx:production sphinx-autobuild -H sphinx\'\n"
